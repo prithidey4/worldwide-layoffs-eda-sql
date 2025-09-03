@@ -1,5 +1,4 @@
 # worldwide-layoffs-eda-sql
-# World Layoff Trends SQL Analysis
 
 ## Project Overview
 This SQL-based data analytics project analyzes a comprehensive dataset of 2,362 company layoff records spanning 2020 to 2023. The dataset covers diverse industries—including technology, retail, healthcare, finance, and media—and contains key attributes such as company names, industries, geographic locations, layoff counts, percentages laid off, funding raised, and company funding stages. The project aims to uncover global patterns and drivers behind layoffs using advanced SQL queries and relational database operations, providing actionable business insights.
@@ -76,8 +75,3 @@ This SQL-based data analytics project analyzes a comprehensive dataset of 2,362 
 - **For Investors:** Evaluate companies on burn rate, runway, and management’s crisis readiness, beyond headline funding.
 
 ---
-
-## Appendix: Visualization Code
-
-### Layoffs Over Years (R)
-
